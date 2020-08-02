@@ -24,6 +24,8 @@ knowledge base for 5G wireless
 - [5G LDPC Intel® FPGA IP User Guide5G LDPC Intel® FPGA IP User Guide - ug_5g_ldpc-1652668.pdf](https://www.mouser.in/datasheet/2/612/ug_5g_ldpc-1652668.pdf)
 - [5G Systems and Subsystems - Cadence](https://www.cadence.com/en_US/home/solutions/5g-systems-and-subsystems.html)
 
+- [communication satellite - Starlink vs 5G technology, are they directly competing services? - Space Exploration Stack Exchange](https://space.stackexchange.com/questions/26425/starlink-vs-5g-technology-are-they-directly-competing-services)
+
 
 ## companies working around 5G globally
 - Intel/Altera, Cavium, Xilinx
