@@ -12,6 +12,7 @@ knowledge base for 5G wireless
 
 ## state of Indian industry
 - [5G In India The Real Story Everything You Need To Know - YouTube](https://www.youtube.com/watch?v=zBUCLOjgKOc)
+- [What is 5G Technology - YouTube](https://www.youtube.com/watch?v=2VtJdP8bWO0)
 
 ## useful links
 - [5G Chipset Manufacturers | Keysight](https://www.keysight.com/in/en/solutions/5g/chipset-manufacturers.html)
