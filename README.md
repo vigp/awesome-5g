@@ -10,6 +10,8 @@ knowledge base for 5G wireless
 - [This is why the wireless industry is running from cRAN to vRAN to oRAN | FierceWireless](https://www.fiercewireless.com/tech/editor-s-corner-why-wireless-industry-running-from-cran-to-vran-to-oran)
 - [WHAT IS THE DIFFERENCE BETWEEN OpenRAN, O-RAN and vRAN?  - Mavenir](https://mavenir.com/blog/what-is-the-difference-between-openran-o-ran-and-vran/)
 
+## state of Indian industry
+- [5G In India The Real Story Everything You Need To Know - YouTube](https://www.youtube.com/watch?v=zBUCLOjgKOc)
 
 ## useful links
 - [5G Chipset Manufacturers | Keysight](https://www.keysight.com/in/en/solutions/5g/chipset-manufacturers.html)
