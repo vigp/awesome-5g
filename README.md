@@ -2,6 +2,8 @@
 knowledge base for 5G wireless
 
 ## what is 5G
+- [Everything You Need to Know About 5G - YouTube](https://www.youtube.com/watch?v=GEx_d0SjvS0)
+- [The Truth About 5G - YouTube](https://www.youtube.com/watch?v=g-gGeAe-PJA)
 - [5G: Explained - Marques Brownlee](https://www.youtube.com/watch?v=_CTUs_2hq6Y)
 - [5G Network Architecture. Core, RAN, & Security Architecture For 5G](https://www.viavisolutions.com/en-us/5g-architecture)
 - [5G FPGA and Baseband Technologies - Intel/Altera FPGA](https://www.intel.in/content/www/in/en/communications/products/programmable/applications/baseband.html)
