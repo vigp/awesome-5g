@@ -9,6 +9,7 @@ knowledge base for 5G wireless
 - [5G FPGA and Baseband Technologies - Intel/Altera FPGA](https://www.intel.in/content/www/in/en/communications/products/programmable/applications/baseband.html)
 - [This is why the wireless industry is running from cRAN to vRAN to oRAN | FierceWireless](https://www.fiercewireless.com/tech/editor-s-corner-why-wireless-industry-running-from-cran-to-vran-to-oran)
 - [WHAT IS THE DIFFERENCE BETWEEN OpenRAN, O-RAN and vRAN?  - Mavenir](https://mavenir.com/blog/what-is-the-difference-between-openran-o-ran-and-vran/)
+- [5G Network Technology | Sciencekaari | 5G Explained - YouTube](https://www.youtube.com/watch?v=xyiW4B7TEFU)
 
 ## state of Indian industry
 - [5G In India The Real Story Everything You Need To Know - YouTube](https://www.youtube.com/watch?v=zBUCLOjgKOc)
