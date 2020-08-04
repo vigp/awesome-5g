@@ -2,6 +2,7 @@
 knowledge base for 5G wireless
 
 ## what is 5G
+- [5G Webinar: 5G in the next 5 years - YouTube](https://www.youtube.com/watch?v=o8PYAGaSe9M) :star: 'apistraining.com' 
 - [5G System Overview - YouTube](https://www.youtube.com/watch?v=U6WMPXwCKHs)
 - [5G Training Archives - Apis Training](https://apistraining.com/portfolio_category/5g-training/)
 - [Everything You Need to Know About 5G - YouTube](https://www.youtube.com/watch?v=GEx_d0SjvS0)
